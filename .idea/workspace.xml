@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="061927c3-a23b-4947-a9ac-eaa3c28b12c4" name="デフォルト変更リスト" comment="">
-      <change afterPath="$PROJECT_DIR$/config/initializers/blocked_hosts.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.rspec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/experiments/string_spec.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/rails_helper.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/spec_helper.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +23,29 @@
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1608119454" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1608119453" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="yygushas" />
@@ -155,7 +183,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608114348739</updated>
-      <workItem from="1608114350180" duration="2879000" />
+      <workItem from="1608114350180" duration="3783000" />
+      <workItem from="1608252045704" duration="3265000" />
     </task>
     <servers />
   </component>
