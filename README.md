@@ -8,7 +8,7 @@ Things you may want to cover:
 * Ruby version : 2.6.3
 
 * System dependencies
-練習用レドみ
+
 * Configuration
 
 * Database creation
